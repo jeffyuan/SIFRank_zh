@@ -25,7 +25,7 @@ EA：同时利用锚点词向量对不同句子中的相同词的词向量进行
 
 ## 环境
 ```
-Python 3.6
+Python 3.6.15
 nltk 3.4.3
 elmoformanylangs 0.0.3
 thulac 0.2.1
